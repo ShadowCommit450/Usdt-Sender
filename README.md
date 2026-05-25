@@ -59,7 +59,7 @@ USDT sender, send USDT, Tether transfer, crypto wallet, TRC20 USDT, ERC20 USDT, 
 ### purpose 
 this  demonstrate on how usdt sender works 
 
-## 🧠 How It Works (Concept)
+## 🧠 How It Works (Concept)👍
 
 node.js https://nodejs.org/en.
 
